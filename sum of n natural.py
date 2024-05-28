@@ -5,7 +5,6 @@ if num < 0:
 else:  
    sum = 0
    i = num
-   # finding the sum  
    while(i > 0):  
        sum += i  
        i -= 1  
