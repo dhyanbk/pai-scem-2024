@@ -2,7 +2,7 @@ def show_menu():
     print("\nTo-Do List Menu")
     print("1. Add task")
     print("2. Remove task")
-    print("3. View tasks")
+    print("3. View task")
     print("4. Exit")
 
 def add_task(tasks):
